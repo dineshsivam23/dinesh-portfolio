@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dinesh-portfolio/static/css/main.3f128be0.css",
+    "main.js": "/dinesh-portfolio/static/js/main.382e450e.js",
+    "index.html": "/dinesh-portfolio/index.html",
+    "main.3f128be0.css.map": "/dinesh-portfolio/static/css/main.3f128be0.css.map",
+    "main.382e450e.js.map": "/dinesh-portfolio/static/js/main.382e450e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f128be0.css",
+    "static/js/main.382e450e.js"
+  ]
+}
