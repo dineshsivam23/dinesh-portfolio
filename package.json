@@ -3,6 +3,7 @@
   "name": "dinesh-portfolio",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://dineshsivam23.github.io/dinesh-portfolio",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
